@@ -1,7 +1,0 @@
-numpy
-pandas
-scikit-learn
-joblib
-streamlit
-imbalanced-learn   # only needed for training (SMOTE)
-pytest
